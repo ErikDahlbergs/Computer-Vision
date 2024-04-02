@@ -1,4 +1,5 @@
-# Computer Vision Assignments
+# Assignments in Computer Vision
+## Description
 Approved solutions to the assignments in computer vision at LTH.
 
 ## Subjects
