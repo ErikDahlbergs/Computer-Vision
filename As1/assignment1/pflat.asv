@@ -1,0 +1,5 @@
+function [outputVector] = pflat(inputVector)
+%
+%   Detailed explanation goes here
+outputVector = inputvector ./ inputVector(end)
+end
